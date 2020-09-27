@@ -40,7 +40,6 @@
 
 ### GitHub statistics 🔟
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GintasS)](https://github.com/gintass/github-readme-stats)
 
 
 <!--
