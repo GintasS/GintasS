@@ -29,7 +29,7 @@
   <a href="https://www.pluralsight.com/" target="_blank">PluralSight</a> or just doing a hobby project on a topic that I would like to learn.
 </p>
 
-<br>
+<br><br>
 
  ---
 
