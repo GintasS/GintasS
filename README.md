@@ -1,9 +1,9 @@
 [![Header](https://github.com/GintasS/GintasS/blob/master/Assets/nature-header.jpg "Header")](https://some-url.dev/)
 <p align='center'>
-<a href="mailto:gintautas.sve@gmail.com" target ="_blank"><img height="30" src="https://github.com/GintasS/GintasS/blob/master/Assets/Icons/email2.png"></a>&nbsp;&nbsp;
-<a href="https://gsvedas.com/" target ="_blank"><img height="30" src="https://github.com/GintasS/GintasS/blob/master/Assets/Icons/desktop.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@svedas" target ="_blank"><img height="30" src="https://github.com/GintasS/GintasS/blob/master/Assets/Icons/medium.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gintautas-svedas/" target ="_blank"><img height="30" src="https://github.com/GintasS/GintasS/blob/master/Assets/Icons/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:gintautas.sve@gmail.com" target="_blank"><img height="30" src="https://github.com/GintasS/GintasS/blob/master/Assets/Icons/email2.png"></a>&nbsp;&nbsp;
+<a href="https://gsvedas.com/" target="_blank"><img height="30" src="https://github.com/GintasS/GintasS/blob/master/Assets/Icons/desktop.png"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@svedas" target="_blank"><img height="30" src="https://github.com/GintasS/GintasS/blob/master/Assets/Icons/medium.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gintautas-svedas/" target="_blank"><img height="30" src="https://github.com/GintasS/GintasS/blob/master/Assets/Icons/linkedin.png"></a>&nbsp;&nbsp;
 </p>
 
 
