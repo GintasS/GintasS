@@ -11,7 +11,7 @@
 
 <p>Hi there 👋</p>
 <p>I picked an image with this stunning view for a reason. I love hiking 🥾, every minute of it!This is a good way of exploring your country 🗺️, making new friends, taking your mind off something.</p>
-<p>Apart from that, let's jump into the code part of myself: I'm a software developer who mostly works on C#, .NET stack, with some exceptions like python on data science projects or just some other topics, technologies. Since my journey in IT, that was started while being in high-school, I've tried many different IT sides, be it developing computer games, websites, mobile apps and more. This has led me into an understanding, that IT world is way too huge to put yourself into one corner, so I hope I'll be able to touch all of those corners.
+<p>Apart from that, let's jump into the code part: I'm a software developer who mostly works on <b>C#</b>, <b>.NET stack</b>, with some exceptions like <b>python</b> on <b>data science projects</b> and some other topics, technologies. Since my journey in IT, that was started while being in high-school, I've tried many different IT sides, be it developing <b>computer games</b>, <b>websites</b>, <b>mobile apps</b> and more. This has led me into an understanding, that IT world is way too huge to put yourself into one corner, so I hope I'll be able to touch all of those corners.
 
 </p>
 
@@ -19,8 +19,8 @@
 
 ### “Learning never exhausts the mind.” ― Leonardo da Vinci 📘
 
-<p>I believe one must constantly learn. Be it a small thing, an article about a discovery on some of a news website, or a bigger one, like learning new language, one must learn.</p>
-<p>I try to follow this quote by reading things on Stack Exchange network: 
+<p>I believe one must constantly learn. Be it a small thing, an article about a discovery on a news website, or a bigger one, like learning a new language, one must learn regularly.</p>
+<p>I try to follow this quote by reading things on Stack Exchange Network: 
   <a href="https://history.stackexchange.com/" target="_blank">history</a>, 
   <a href="https://workplace.stackexchange.com/" target="_blank">workplace</a>,
   <a href="https://outdoors.stackexchange.com/" target="_blank">the great outdoors</a>, reading various newsletters, watching courses on
@@ -31,7 +31,7 @@
 
 ### My Digital Ocean 🌊
 <p>You can find my personal website here: <a href="https://gsvedas.com/" target="_blank">gsvedas.com</a>.</p>
-<p>I also write to Medium, be it some of the tips and tricks I learned by working on a video game project, a guide of how to succeed on fiding your first programming job or just an expirementation with subject X.You can find it here: <a href="https://medium.com/@svedas" target="_blank">blog</a>
+<p>I also write to Medium, be it some of the tips and tricks I that learned by working on a video game project, a guide of how to succeed on fiding your first programming job or just an experimentation with subject X. You can find it here: <a href="https://medium.com/@svedas" target="_blank">blog</a>.
 </p>
 
 
