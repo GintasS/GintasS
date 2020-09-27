@@ -31,7 +31,7 @@
 
 ### My Digital Ocean 🌊
 <p>You can find my personal website here: <a href="https://gsvedas.com/" target="_blank">gsvedas.com</a>.</p>
-<p>I also write to Medium, be it some of the tips and tricks I that learned by working on a video game project, a guide of how to succeed on fiding your first programming job or just an experimentation with subject X. You can find it here: <a href="https://medium.com/@svedas" target="_blank">blog</a>.
+<p>I also write to Medium, be it some of the tips and tricks I that learned by working on a video game project, a guide of how to succeed on fiding your first programming job or just experimentation with subject X. You can find it here: <a href="https://medium.com/@svedas" target="_blank">blog</a>.
 </p>
 
 
