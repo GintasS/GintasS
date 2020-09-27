@@ -41,6 +41,7 @@
 ### GitHub statistics 🔟
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gintass&hide=jupyter notebook,html"></img>
 
 <!--
 **GintasS/GintasS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
