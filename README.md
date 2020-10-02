@@ -35,11 +35,6 @@
 <p>I also write to Medium, be it some of the tips and tricks that I've learned by working on a 🎮 project, a guide of how to succeed at fiding your first programming job or just experimentation with subject X. You can find it here: <a href="https://medium.com/@svedas" target="_blank">medium</a>.
 </p>
 
-### GitHub statistics 🔟
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gintass&hide=jupyter notebook,html&count_private=true"></img>
-
 <!--
 **GintasS/GintasS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
