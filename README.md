@@ -12,23 +12,7 @@
 
 </p>
 
-  ---
-
-### “Learning never exhausts the mind.” ― Leonardo da Vinci 📘
-
-<p><a href="https://waylonwalker.com/latest"><img width="250" height="180" align='left' src="https://excellencereporterdotcom.files.wordpress.com/2020/07/davinci-header-2400x1600-jgt.jpg"></a>
-  
-  I believe one must constantly learn. Be it a small thing, an article about a discovery on a news website, or a bigger one, like learning a new language, one must learn regularly. 🕐</p>
-<p>I try to follow this quote by reading things on Stack Exchange Network: 
-  <a href="https://history.stackexchange.com/" target="_blank">history</a>, 
-  <a href="https://workplace.stackexchange.com/" target="_blank">workplace</a>,
-  <a href="https://outdoors.stackexchange.com/" target="_blank">the great outdoors</a>, reading various newsletters, watching courses on
-  <a href="https://www.pluralsight.com/" target="_blank">PluralSight</a> or just doing a hobby project on a topic that I would like to learn.
-</p>
-
-<br><br>
-
- ---
+---
 
 ### My Digital Ocean 🌊
 <p>You can find my personal website here: <a href="https://gsvedas.com/" target="_blank">gsvedas.com</a>.</p>
