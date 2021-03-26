@@ -1,13 +1,11 @@
-[![Header](https://github.com/GintasS/GintasS/blob/master/Assets/nature-header.jpg "Header")](https://some-url.dev/)
-<p align='center'>
-<a href="mailto:gintautas.sve@gmail.com"><img height="30" src="https://github.com/GintasS/GintasS/blob/master/Assets/Icons/email2.png"></a>&nbsp;&nbsp;
-<a href="https://gsvedas.com/"><img height="30" src="https://github.com/GintasS/GintasS/blob/master/Assets/Icons/desktop.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@svedas"><img height="30" src="https://github.com/GintasS/GintasS/blob/master/Assets/Icons/medium.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/gintautas-svedas/"><img height="30" src="https://github.com/GintasS/GintasS/blob/master/Assets/Icons/linkedin.png"></a>&nbsp;&nbsp;
+<p>Hello there 👋,</p>
+<p>I am a Information Technology undergraduate in Vilnius University.<br><br>
+ I mostly work on the back-end side with <b>C#</b> and <b>.NET</b> stack, but I also enjoy working with <b>python</b>:snake: on <b>data science projects</b>, not forgetting <b>game development</b> with <b>Unity</b>.<br><br>
+ Since high-school, I've also created <b>websites</b>, <b>mobile apps</b>:phone: and <b>scientific projects</b>:satellite:. This whole IT experience has led me into an understanding, that IT world is way too huge to put yourself into one corner, so I hope I'll be able to touch all of those corners.
 </p>
 
-<p>Hello there 👋,</p>
-<p>I'm a software developer who mostly works on <b>C#</b>, <b>.NET stack</b>, with some exceptions like <b>python</b> on <b>data science projects</b> and some other topics, technologies. Since my journey in IT, that was started while being in high-school, I've tried many different IT sides, be it developing <b>computer games</b>, <b>websites</b>, <b>mobile apps</b> and more. This has led me into an understanding, that IT world is way too huge to put yourself into one corner, so I hope I'll be able to touch all of those corners.
+<p>I also very much enjoy learning new technologies and frameworks.<br>
+  Recently I've discovered open-source, also been working on creating API with Java.:snowman:
 </p>
 
 ---
