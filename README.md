@@ -4,8 +4,8 @@
  Since high-school, I've also created various <b>websites</b>, <b>mobile apps</b> and <b>scientific projects</b>. This diverse IT experience has led me into an understanding, that IT world is way too huge to put yourself into one corner, so I hope I'll be able to touch all of those corners.
 </p>
 
-<p>I also very much enjoy learning new technologies and frameworks. 💡<br>
-  I recently have discovered open-source, also started creating API with Java and Quarkus. :satellite:
+<p>I very much enjoy learning new technologies and frameworks. 💡<br>
+  I recently have discovered open-source, I have also been working on the API project with Java and Quarkus. :satellite:
 </p>
 
 ---
