@@ -1,15 +1,17 @@
-Hello there 👋<br><br>
-I am a graduate Information Technology student at Vilnius University. <br><br>
-My work focuses on the back-end side with <b>C#</b> and <b>.NET</b> stack, but I also enjoy working with <b>python</b> :snake: on <b>data science projects</b>, not forgetting <b>game development</b> :video_game: with <b>Unity</b>.<br> Not so long ago I've also started to learn AI and generative AI!
+Hello, and welcome to my GitHub profile! 👋
 
-Since high-school, I've also created various <b>websites</b>, <b>mobile apps</b>, and <b>scientific projects</b>. This diverse IT experience has led me to understand that the IT world is way too huge to put yourself into one corner, so I hope I'll be able to touch all of those corners.
+I am a graduate of Vilnius University, holding a degree in Information Technology. My primary expertise lies in back-end development, specializing in the C# and .NET stack. Additionally, I am passionate about Python and its applications in data science. I also enjoy exploring game development using Unity, and have a growing interest in edTech and its potential to transform education.
 
-<p>I very much enjoy learning new technologies and frameworks. 💡<br></p>
+Recently, I've begun delving into the world of artificial intelligence and generative AI.
+
+My experience in IT dates back to high school, where I worked on various websites, mobile applications, and scientific projects. This broad exposure has shown me the vastness of the IT field, inspiring me to continuously explore new areas and technologies.
+
+I am always enthusiastic about learning new frameworks and technologies, and I look forward to expanding my skill set. 💡
 
 ---
 
 ### My Digital Ocean 🌊
-<p>:point_right: You can find more about me at my <a href="https://gsvedas.me" target="_blank">Website</a>.<br>
+<p>:point_right: You can find more about me at my <a href="https://gsvedas.com" target="_blank">Website</a>.<br>
 :point_right: I also write to <a href="https://medium.com/@svedas" target="_blank">Medium</a>.<br>
 :point_right: You can also make a connection on <a href="https://www.linkedin.com/in/gintautas-svedas/" target="_blank">LinkedIn</a>.
 </p>
